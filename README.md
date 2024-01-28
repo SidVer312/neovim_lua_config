@@ -1,4 +1,4 @@
-#Neovim Config
+# Neovim Config
 
 My Neovim Config Files
 
